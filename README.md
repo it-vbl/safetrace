@@ -279,6 +279,8 @@ public/              # Publicly served logos, backgrounds, and icons
 
 - [SafeTrace README (PDF)](./Safetrace%20-%20Readme.pdf)
 - [SafeTrace User Guide (PDF)](./Safetrace%20-%20User%20Guide.pdf)
+- [WHISP Risk Assessment - English (PDF)](./Whisp_Risk_Assessment_English.pdf)
+- [Forest Baseline and Loss Alerts - English (PDF)](./CUKK_Forest_Baseline_and_Loss_Alert_English.pdf)
 
 ## License
 
