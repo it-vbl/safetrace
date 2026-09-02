@@ -2,7 +2,11 @@
 
 SafeTrace is an open-source, full-stack Geographic Information System (GIS) platform for plantation supply-chain traceability. It consists of two independent repositories - a Django-based REST API backend and a Next.js frontend dashboard - that together allow organizations to manage farmer data, plantation plots, STDB (Surat Tanda Daftar Budidaya) documents, GAP (Good Agricultural Practice) compliance, and interactive map layers.
 
-The project includes a case-study implementation for a farming cooperative in Sekadau Regency, West Kalimantan, Indonesia. This repository provides a single reference for setting up and using both applications.
+The project includes a case-study implementation for a farming cooperative in Sekadau Regency, West Kalimantan, Indonesia. 
+
+This system was produced with the financial support of the European Union, the German Federal Ministry for Economic Cooperation and Development (BMZ) and the Ministry of Foreign Affairs of the Netherlands, as part of the SAFE Project, implemented by GIZ. Its contents are the sole responsibility of PT VBL and do not necessarily reflect the views of GIZ, the European Union, the German Federal Ministry for Economic Cooperation and Development (BMZ) and the Ministry of Foreign Affairs of the Netherlands
+
+This repository provides a single reference for setting up and using both applications.
 
 ## Repositories
 
